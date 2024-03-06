@@ -1,7 +1,6 @@
 # DisneyLine Tracker
 
 Bienvenue dans DisneyLine Tracker, votre compagnon ultime pour suivre en direct les temps d'attente des attractions à sensations à Disneyland Paris ! 🚀🎢✨
-<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/MtsVG1dm38Qau9VsoF/giphy.gif">
 
 ## Aperçu
 
@@ -24,4 +23,6 @@ Nous accueillons toutes les contributions ! Si vous avez des idées d'améliorat
 
 ---
 
-Que l'aventure commence ! 🎉🏰✨
+Que l'aventure commence ! 🎉🏰✨ 
+
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQyZjVqaGE3ZGJxN3Z5N2xkdnFvMDdkYWZxYTk2OGxnc2FsbG83OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7pjExnCBJ477y/giphy.gif">
