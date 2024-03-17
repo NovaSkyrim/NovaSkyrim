@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQGTO2VnFxXAJQ/profile-displaybackgroundimage-shrink_350_1400/0/1707851430471?e=1716422400&v=beta&t=9O54QW78_M67GJJwXMWlEO8uuK57aBM-Wu9GrNDxbz0
-)]
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQGTO2VnFxXAJQ/profile-displaybackgroundimage-shrink_350_1400/0/1707851430471?e=1716422400&v=beta&t=9O54QW78_M67GJJwXMWlEO8uuK57aBM-Wu9GrNDxbz0
+)
 
 <h1 align="center">Salut 👋, Je m'appelle Clément Coutant</h1>
 <h3 align="center">Étudiant en école d'ingénieur passionné d'IA.</h3>
