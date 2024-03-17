@@ -2,7 +2,7 @@
 )
 
 <h1 align="center">Salut 👋, Je m'appelle Clément Coutant</h1>
-<h3 align="center">Étudiant en école d'ingénieur passionné d'IA.</h3>
+<h3 align="center">Étudiant en école d'ingénieur passionné d'intelligence artificielle.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
 
