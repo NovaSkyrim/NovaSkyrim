@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQGTO2VnFxXAJQ/profile-displaybackgroundimage-shrink_350_1400/0/1707851430471?e=1716422400&v=beta&t=9O54QW78_M67GJJwXMWlEO8uuK57aBM-Wu9GrNDxbz0
 )
 
-<h1 align="center">Salut 👋, Je m'appelle Clément Coutant</h1>
+<h1 align="center">Salut 👋, je m'appelle Clément Coutant</h1>
 <h3 align="center">Étudiant en école d'ingénieur passionné d'intelligence artificielle.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
