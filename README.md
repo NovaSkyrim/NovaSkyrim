@@ -5,7 +5,7 @@
 
 - 🔭 Je travaille actuellement sur [Canapy]([(https://github.com/birds-canopy/canapy)](https://github.com/birds-canopy/canapy))
 
-- 📫 Comment me contacter **clement.coutant@esme.fr**
+- 📫 Me contacter **clement.coutant@esme.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
