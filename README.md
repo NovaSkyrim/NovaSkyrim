@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
 
-- 🔭 Je travaille actuellement sur [SubmarineNavigatorVR]([(https://github.com/CyrianCrPro/SubmarineNavigatorVR)](https://github.com/CyrianCrPro/SubmarineNavigatorVR))
-
 - 📫 Me contacter : **clement.coutant@esme.fr**
 
 <h3 align="left">Connect with me:</h3>
